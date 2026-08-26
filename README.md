@@ -75,7 +75,7 @@ function must:
 
 The following function and string methods were used:
 
-• `def make_username(first_name, last_name)` - defines the function with `first_name` and `last_name` as its parameters.
+• `def make_username(first_name, last_name)` - defines the 'make_username' function with `first_name` and `last_name` as its parameters.
 
 • `.replace(" ", "")` - removes spaces from the names.
 
@@ -126,7 +126,7 @@ Create a function named `swap_bookends()` that accepts a list containing at leas
 
 Using these variables, return a new list in which the first and last elements have exchanged positions. The elements in `middle` must remain in their original order. Do not modify the input list.
 
-• `def swap_bookends(items)` - defines the function with `items` as its parameter.
+• `def swap_bookends(items)` - defines the 'swap_bookends' function with `items` as its parameter.
 
 • `first, *middle, last = items` - separates the list into the first element, middle elements, and last element.
 
