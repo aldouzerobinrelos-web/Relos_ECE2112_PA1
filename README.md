@@ -15,8 +15,6 @@ The following function and string operations were used:
 
 • `text[1:]` - uses slicing to get the characters after the first character.
 
-• `+` - combines the two parts of the string.
-
 For example:
 
 ```python
@@ -78,8 +76,6 @@ The following function and string methods were used:
 • `def make_username(first_name, last_name)` - defines the 'make_username' function with `first_name` and `last_name` as its parameters.
 
 • `.replace(" ", "")` - removes spaces from the names.
-
-• `+` - combines the names and the period `"."`.
 
 • `.lower()` - converts the username to lowercase.
 
