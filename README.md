@@ -162,6 +162,9 @@ The output is:
 [3, 8]
 ```
 
-The original list remains unchanged because the function returns a new list.
+Thank you for reading!
+
+**README file version history:**
+
 
 ---
